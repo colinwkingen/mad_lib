@@ -9,8 +9,6 @@ This allows the user to create a story in the style of a mad lib game.
 
 ## Setup/Installation Requirements
 
-This app is viewable at:
-https://francophone-whistler-93824.herokuapp.com/
 
 To install this repository into a new project each time, first
 
